@@ -1,2 +1,2 @@
-# Sebastian Stepaniuk
-Projek zespołu klad-Alethinophidia-tow polega na stworzeniu gry podobnej do oryginalnego Pacmana
+# It's not an advertisement
+But I really like this theme and recommend you to check The Lord of the Ice Garden.
