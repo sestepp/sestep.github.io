@@ -1,3 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: [Moje CV]
-description: [Kilka ciekawych i nieciekawych faktów o mnie]
+logo:
+title: Moje CV
+description: Kilka ciekawych i nieciekawych faktów o mnie
